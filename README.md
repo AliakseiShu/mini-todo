@@ -1,6 +1,6 @@
 # Mini ToDo
 
----
+
 ## Stack :
 
 - React
@@ -17,6 +17,6 @@ npm i && npm run start
 ```
 
 
-### You can see the project in GitHub Pages
+### You can see the project in **GitHub Pages**  [link](https://aliakseishu.github.io/mini-todo/) 
 
 
