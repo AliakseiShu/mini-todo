@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini-todo/static/css/main.cfb1d350.css",
+    "main.js": "/mini-todo/static/js/main.1ef9632b.js",
+    "index.html": "/mini-todo/index.html",
+    "main.cfb1d350.css.map": "/mini-todo/static/css/main.cfb1d350.css.map",
+    "main.1ef9632b.js.map": "/mini-todo/static/js/main.1ef9632b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfb1d350.css",
+    "static/js/main.1ef9632b.js"
+  ]
+}
